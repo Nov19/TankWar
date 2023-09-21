@@ -1,0 +1,13 @@
+﻿Controls:
+W:						Move up
+S:						Move down
+A:						Move left
+D:						Move right
+Mouse:						Aim
+Left click:						Fire projectile
+Right click:					Fire beam
+
+About:
+TankWars Solution
+Author: Xing Liu, Jinwen Lei
+CS 3500, Fall 2021, University of Utah
